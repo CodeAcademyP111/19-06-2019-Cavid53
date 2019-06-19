@@ -1,0 +1,7 @@
+C:\Users\Aishe\Desktop\p111\C#\19.06.2019\Method\Method\bin\Debug\Method.exe.config
+C:\Users\Aishe\Desktop\p111\C#\19.06.2019\Method\Method\bin\Debug\Method.exe
+C:\Users\Aishe\Desktop\p111\C#\19.06.2019\Method\Method\bin\Debug\Method.pdb
+C:\Users\Aishe\Desktop\p111\C#\19.06.2019\Method\Method\obj\Debug\Method.csprojAssemblyReference.cache
+C:\Users\Aishe\Desktop\p111\C#\19.06.2019\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\Aishe\Desktop\p111\C#\19.06.2019\Method\Method\obj\Debug\Method.exe
+C:\Users\Aishe\Desktop\p111\C#\19.06.2019\Method\Method\obj\Debug\Method.pdb
